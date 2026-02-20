@@ -70,7 +70,7 @@ Here are a few projects that showcase my work:
 - **Twitter:** [@HeyMaazin](https://twitter.com/HeyMaazin) ✨  
 - **Instagram:** [@HeyMaazin](https://www.instagram.com/HeyMaazin) 💼  
 - **Portfolio:** [Portfolio](https://itzmzn.xyz) 🎌  
-- **Email:** heymaazin@example.com 📧  
+- **Email:** heymaazin@gmail.com 📧  
 
 ---
 
