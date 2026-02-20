@@ -1,35 +1,47 @@
-# Hi there, I'm Itz Maazin 👋
+# Hey there, Itz Maazin Here! 👋
 
-[![Twitter](https://img.shields.io/badge/Twitter-@HeyMaazin-blue?style=flat-square&logo=twitter)](https://twitter.com/HeyMaazin)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Itz%20Maazin-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/heymaazin)
-[![GitHub](https://img.shields.io/badge/GitHub-HeyMaazin-black?style=flat-square&logo=github)](https://github.com/HeyMaazin)
+> *"I write code, sometimes it writes back"* 😏
 
 ---
 
-## About Me
+## 💻 About Me
 
-I'm a passionate **Full-Stack Developer** building scalable web applications, APIs, and developer tools.  
-I love **clean code, open-source, and tech innovation**.  
+I'm a **full-stack developer** who loves turning ☕ coffee into 💻 code.  
+I make web apps, APIs, and random projects just to annoy my future self.  
 
-- 🌱 Currently learning: **TypeScript, Next.js, Cloud DevOps**  
-- 💻 Main Stack: **JavaScript | Node.js | React | Express | MongoDB**  
-- 🔭 Working on: **Boostra & personal projects**  
-- 🤝 Open to collaborations, freelance & open-source contributions  
-
----
-
-## Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=HeyMaazin&show_icons=true&theme=dark&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HeyMaazin&theme=dark&layout=compact)
+- 🌱 Currently learning: **TypeScript, Next.js, and how to sleep less**  
+- 🔭 Working on: **Boostra & side-project experiments**  
+- 🤝 Open for collabs, bugs reports, and meme sharing  
 
 ---
 
-## ⚡ Fun Fact
+## 📊 GitHub Stats (Totally Real… maybe) 😎
 
-- Coffee keeps me coding ☕  
-- Love minimal, dark-themed dev setups 🌙  
-- Tech enthusiast & lifelong learner 💡  
+| Metric | Count |
+|--------|-------|
+| Commits | 4,283 |
+| Pull Requests | 137 |
+| Stars | 1,412 |
+| Repositories | 38 |
+| Issues Solved | 102 |
+
+---
+
+## 🧠 Top Languages (According to My Inner Hacker) 💾
+
+- **JavaScript** ████████████████████ 40%  
+- **TypeScript** ████████████████░░░ 28%  
+- **Python** ████████████░░░░░░░░░░ 18%  
+- **HTML/CSS** ████████░░░░░░░░░░░░ 10%  
+- **Shell** ███░░░░░░░░░░░░░░░░░░░ 4%  
+
+---
+
+## 🎯 Fun Facts
+
+- I sometimes code faster than my coffee cools ☕  
+- I enjoy **debugging other people’s code more than mine** 😈  
+- I have a collection of **failed experiments that I call “learning”** 📚  
 
 ---
 
@@ -37,8 +49,8 @@ I love **clean code, open-source, and tech innovation**.
 
 - Twitter: [@HeyMaazin](https://twitter.com/HeyMaazin)  
 - LinkedIn: [Itz Maazin](https://www.linkedin.com/in/heymaazin)  
-- Portfolio: [Your Portfolio URL]  
+- Portfolio: [Your Portfolio Link]  
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+> “Code like nobody’s watching, commit like everyone is.” 😎
