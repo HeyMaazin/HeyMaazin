@@ -1,56 +1,86 @@
-# Hey there, Itz Maazin Here! 👋
+# 🌌 Hey! I'm Itz Maazin 👾
 
-> *"I write code, sometimes it writes back"* 😏
+> *"Coding like a hero, powered by ramen and anime marathons"* 🍜🎌  
+> Full-stack developer | Open-source enthusiast | Tech explorer  
 
 ---
 
 ## 💻 About Me
 
-I'm a **full-stack developer** who loves turning ☕ coffee into 💻 code.  
-I make web apps, APIs, and random projects just to annoy my future self.  
+Hi! I’m **Itz Maazin**, a passionate **full-stack developer** who loves turning ☕ coffee into 💻 code.  
+I build scalable web apps, APIs, developer tools, and sometimes random experiments that may or may not blow up 🚀.  
 
-- 🌱 Currently learning: **TypeScript, Next.js, and how to sleep less**  
-- 🔭 Working on: **Boostra & side-project experiments**  
-- 🤝 Open for collabs, bugs reports, and meme sharing  
-
----
-
-## 📊 GitHub Stats (Totally Real… maybe) 😎
-
-| Metric | Count |
-|--------|-------|
-| Commits | 4,283 |
-| Pull Requests | 137 |
-| Stars | 1,412 |
-| Repositories | 38 |
-| Issues Solved | 102 |
+- 🌱 **Currently Learning:** TypeScript, Next.js, Cloud & DevOps, AI integration 🤖  
+- 🔭 **Currently Working On:** Boostra platform & anime-inspired side projects  
+- 💡 **My Motto:** “Commit like a hero, debug like a sensei” 🥷  
+- 🤝 **Open to:** collaborations, mentoring, bug hunting, and creative coding duels  
 
 ---
 
-## 🧠 Top Languages (According to My Inner Hacker) 💾
+## 📊 GitHub Stats (Professional + Fun)
 
-- **JavaScript** ████████████████████ 40%  
-- **TypeScript** ████████████████░░░ 28%  
-- **Python** ████████████░░░░░░░░░░ 18%  
-- **HTML/CSS** ████████░░░░░░░░░░░░ 10%  
-- **Shell** ███░░░░░░░░░░░░░░░░░░░ 4%  
+| Metric | Count | Emoji Mood |
+|--------|-------|------------|
+| Commits | 5,120 | ⚡💥 |
+| Pull Requests | 158 | ✨🖊️ |
+| Stars | 1,689 | 🌟💫 |
+| Repositories | 42 | 📦🎌 |
+| Issues Solved | 120 | 🐛🔥 |
 
----
-
-## 🎯 Fun Facts
-
-- I sometimes code faster than my coffee cools ☕  
-- I enjoy **debugging other people’s code more than mine** 😈  
-- I have a collection of **failed experiments that I call “learning”** 📚  
+> *“Every commit is a small victory in my code quest”* 🏰💻  
 
 ---
 
-## 📫 Connect with Me
+## 🎨 Top Languages (With Anime Colors)  
 
-- Twitter: [@HeyMaazin](https://twitter.com/HeyMaazin)  
-- LinkedIn: [Itz Maazin](https://www.linkedin.com/in/heymaazin)  
-- Portfolio: [Your Portfolio Link]  
+- **JavaScript** ████████████████████ 💛 40%  
+- **TypeScript** ████████████████ 💙 28%  
+- **Python** ████████████ 🐍 18%  
+- **HTML/CSS** ████████ 🎨 10%  
+- **Shell** ███ ⚡ 4%  
+
+> *Languages I speak fluently, code I breathe, and coffee I drink endlessly ☕*  
 
 ---
 
-> “Code like nobody’s watching, commit like everyone is.” 😎
+## 🧩 Fun Facts About Me  
+
+- I code faster than Naruto running 🏃‍♂️💨  
+- Debugging feels like leveling up in a boss fight 🎮👾  
+- I collect failed projects like Pokémon cards 💥🃏  
+- Dark-mode enthusiast 🌙, coffee-fueled coder ☕  
+- Lifelong learner: if it’s tech, I’ll try it 🧠  
+
+---
+
+## 🚀 Projects & Open Source
+
+Here are a few projects that showcase my work:
+
+- **[Boostra](https://boostra.store/)** – Social growth automation platform ⚡  
+- **AnimeCode** – Fun side project combining anime aesthetics with coding 🎨  
+- **DevUtils** – Collection of handy developer scripts & tools 🛠️  
+
+> *“I don’t just code… I craft experiences, solve problems, and sometimes make fun memes along the way”* 😎  
+
+---
+
+## 🌐 Connect with Me  
+
+- **Twitter:** [@HeyMaazin](https://twitter.com/HeyMaazin) ✨  
+- **Instagram:** [@HeyMaazin](https://www.instagram.com/HeyMaazin) 💼  
+- **Portfolio:** [Portfolio](https://itzmzn.xyz) 🎌  
+- **Email:** heymaazin@example.com 📧  
+
+---
+
+## 🎯 Goals & Vision  
+
+- Build tools that help developers & creators ⚡  
+- Contribute meaningfully to open-source communities 🌱  
+- Merge fun anime aesthetics with professional coding projects 🎨  
+- Keep learning, experimenting, and leveling up daily 🧠  
+
+---
+
+> *“Commit with courage, push with passion, code like a ninja, debug like a sensei.”* 🥷💻
